@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/HoroscopeList/app/src/main/res/drawable/scrim.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/HoroscopeList/app/src/main/res/layout/activity_details.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/HoroscopeList/app/src/main/res/layout/activity_main.xml" value="0.29438405797101447" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/HoroscopeList/app/src/main/res/layout/activity_splash.xml" value="0.29438405797101447" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/HoroscopeList/app/src/main/res/layout/horoscope_row.xml" value="0.20520833333333333" />

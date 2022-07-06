@@ -99,7 +99,9 @@ class MainActivity : AppCompatActivity() {
 
 
         binding.listviewHoroscopes.setOnItemClickListener { adapterView, view, i, l ->
-           
+            val intent = Intent(this@MainActivity , DetailsActivity::class.java)
+            intent.putExtra("horoscope", horoscopeList[i])
+            startActivity(intent)
         }
 
 
